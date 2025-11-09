@@ -222,13 +222,13 @@ img {
 
 .trailer-container {
     position: relative;
-    padding-bottom: 56.25%; /* Proporção 16:9 (9 / 16 * 100) */
+    padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
     max-width: 100%;
     background: #000;
     border-radius: 8px;
-    margin-top: 15px; /* Espaçamento acima do trailer */
+    margin-top: 15px;
 }
 
 .trailer-container iframe {
@@ -250,4 +250,5 @@ img {
     .detalhes h2 {
         font-size: 2em;
     }
+
 }
